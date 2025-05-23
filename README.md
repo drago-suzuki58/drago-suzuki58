@@ -17,19 +17,19 @@ I'm a hobbyist and intermediate programmer from Japan.
 ## Most use Languages
 
 From left to right (more frequently used to less frequently used):  
-[![Python, C#, Rust, TypeScript, Java](https://skillicons.dev/icons?i=python,cs,rust,ts,java)](https://skillicons.dev)
+[![Python, TypeScript, C#, Rust](https://skillicons.dev/icons?i=python,ts,cs,rust)](https://skillicons.dev)
 
 ## Tools
 
-In alphabetical order:
+From left to right (more frequently used to less frequently used):
 
 ### Flamework
 
-[![.NET, FastAPI, Flask, Tauri, Unity](https://skillicons.dev/icons?i=dotnet,fastapi,flask,tauri,unity)](https://skillicons.dev)
+[![FastAPI, React, Vue, Selenium, .NET, Unity](https://skillicons.dev/icons?i=fastapi,react,vue,selenium,dotnet,unity)](https://skillicons.dev)
 
 ### Coding
 
-[![Docker, Git, GitHub, GitHubActions, Visual Studio, VSCode](https://skillicons.dev/icons?i=docker,git,github,githubactions,visualstudio,vscode)](https://skillicons.dev)
+[![Git, GitHub, VSCode, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
 
 ### Platforms
 
