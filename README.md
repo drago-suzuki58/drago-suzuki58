@@ -5,19 +5,30 @@ I'm a hobbyist and intermediate programmer from Japan.
 
 ## Interests
 
-- **Game Development**:  
-  I love games and I am interested in developing mods as well as creating games from scratch.
-- **Backend Development**:  
-  I have an interest in server-side development and am learning to work with databases, APIs, and server management to build robust and scalable applications.
-- **AI**:  
-  Artificial Intelligence fascinates me, and I enjoy experimenting with various AI tools and algorithms to solve complex problems.
-- **Reverse Engineering**:  
-  I find it intriguing to deconstruct and understand how software works, including developing mods and exploring existing software. This helps me improve my own coding skills and security knowledge.
+### Game Development
+
+I love games and I am interested in developing mods as well as creating games from scratch.
+
+### Backend Development
+
+I have an interest in server-side development and am learning to work with databases, APIs, and server management to build robust and scalable applications.
+
+### AI
+
+Artificial Intelligence fascinates me, and I enjoy experimenting with various AI tools and algorithms to solve complex problems.
+
+### Reverse Engineering
+
+I find it intriguing to deconstruct software to understand its inner workings. This curiosity drives me to analyze protocols, explore file formats, and understand system interoperability, not just in games but across various software domains.
+
+### Modding
+
+I am deeply passionate about extending and personalizing game experiences through modding. Modding is very deep, and what's appealing about it is that you can do anything you want if you put your mind to it.
 
 ## Most use Languages
 
 From left to right (more frequently used to less frequently used):  
-[![Python, TypeScript, C#, Rust](https://skillicons.dev/icons?i=python,ts,cs,rust)](https://skillicons.dev)
+[![Python, TypeScript, C#, Rust, Java](https://skillicons.dev/icons?i=python,ts,cs,rust,java)](https://skillicons.dev)
 
 ## Tools
 
@@ -25,7 +36,7 @@ From left to right (more frequently used to less frequently used):
 
 ### Flamework
 
-[![FastAPI, React, Vue, Selenium, .NET, Unity](https://skillicons.dev/icons?i=fastapi,react,vue,selenium,dotnet,unity)](https://skillicons.dev)
+[![FastAPI, React, Selenium, .NET, Unity](https://skillicons.dev/icons?i=fastapi,react,selenium,dotnet,unity)](https://skillicons.dev)
 
 ### Coding
 
@@ -33,7 +44,7 @@ From left to right (more frequently used to less frequently used):
 
 ### Platforms
 
-[![Cloudflare, Ubuntu, Windows, Wordpress](https://skillicons.dev/icons?i=cloudflare,ubuntu,windows,wordpress)](https://skillicons.dev)
+[![Ubuntu, Cloudflare, Windows, Wordpress](https://skillicons.dev/icons?i=ubuntu,cloudflare,windows,wordpress)](https://skillicons.dev)
 
 ### Databases
 
@@ -68,8 +79,8 @@ Blog: [dorasuzublog.com](dorasuzublog.com)
 
 ### [LocoJSON](https://github.com/drago-suzuki58/LocoJSON)
 
-This is lightweight Python library for multi-language support library.
+LocoJSON is lightweight Python library for multi-language support library.
 
-### [RenPy Dialogue Importer](https://github.com/drago-suzuki58/renpy-dialogue-importer)
+### [RenPy Debug UI](https://github.com/drago-suzuki58/renpy_debug_ui)
 
-Tool for converting RenPy dialogue.tab to .rpy and importing it.
+Ren'Py Debug UI is a tool to assist with debugging and development in Ren'Py.
