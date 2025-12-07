@@ -54,8 +54,8 @@ From left to right (more frequently used to less frequently used):
 
 ## Status
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=drago-suzuki58)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drago-suzuki58&hide=mcfunction)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.drsz.org/api?username=drago-suzuki58)](https://github.com/drago-suzuki58/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.drsz.org/api/top-langs/?username=drago-suzuki58&hide=mcfunction)](https://github.com/drago-suzuki58/github-readme-stats)
 
 ## Contact
 
