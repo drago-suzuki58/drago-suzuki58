@@ -28,7 +28,7 @@ I am deeply passionate about extending and personalizing game experiences throug
 ## Most use Languages
 
 From left to right (more frequently used to less frequently used):  
-[![Python, TypeScript, C#, Rust, Java](https://skillicons.dev/icons?i=python,ts,cs,rust,java)](https://skillicons.dev)
+[![Python, TypeScript, C#, Rust, Java](https://skillicons.dev/icons?i=python,ts,java,cs,rust)](https://skillicons.dev)
 
 ## Tools
 
@@ -84,3 +84,7 @@ LocoJSON is lightweight Python library for multi-language support library.
 ### [RenPy Debug UI](https://github.com/drago-suzuki58/renpy_debug_ui)
 
 Ren'Py Debug UI is a tool to assist with debugging and development in Ren'Py.
+
+### [Universal Modloader](https://github.com/drago-suzuki58/universal_modloader)
+
+A Mixin/Harmony-style modding framework for Python. By injecting code directly into the Abstract Syntax Tree (AST), it enables powerful, conflict-free modifications to any Python script or library at runtime.
