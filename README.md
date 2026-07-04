@@ -57,6 +57,15 @@ From left to right (more frequently used to less frequently used):
 [![GitHub stats](https://github-readme-stats.drsz.org/api?username=drago-suzuki58)](https://github.com/drago-suzuki58/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.drsz.org/api/top-langs/?username=drago-suzuki58&hide=mcfunction)](https://github.com/drago-suzuki58/github-readme-stats)
 
+<div align="center">
+  <a href="https://commit-history.com/drago-suzuki58">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/drago-suzuki58?theme=dark" />
+      <img alt="drago-suzuki58's commit history" src="https://commit-history.com/embed/drago-suzuki58" />
+    </picture>
+  </a>
+</div>
+
 ## Contact
 
 Feel free to choose any
